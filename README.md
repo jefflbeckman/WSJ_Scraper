@@ -10,3 +10,5 @@ Utility python program to scrape the public WSJ issues and compile them into a p
 3. Open cmd.exe and navigate to the place where these scripts are installed
 4. >python wsj_utility.py
 
+After running, the help and usage information should print out. An example usage might look like: 
+  >python wsj_utility.py -d "12/30/2016"
